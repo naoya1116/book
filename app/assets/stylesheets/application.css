@@ -19,6 +19,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  color: black;
 }
 
 body{
@@ -28,4 +29,19 @@ body{
 
 p{
   margin: 30px;
+}
+
+th{
+  padding-bottom: 5px;
+  font-family: helvetica;
+}
+
+td{
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+h1,h2{
+  font-family: helvetica;
 }
